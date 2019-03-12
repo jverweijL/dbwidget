@@ -1,0 +1,12 @@
+Bundle-Name: dbWidget
+Bundle-SymbolicName: com.liferay.demo.db
+Bundle-Version: 1.0.0
+
+-metatype: *
+
+Import-Package: \
+    !org.apache.log*,\
+    !com.mchange.v2.c3p0,\
+    !org.hibernate.service.jdbc.connections*,\
+    !org.jboss.resource.adapter*,\
+	*

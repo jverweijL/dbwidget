@@ -1,0 +1,27 @@
+dependencies {
+	compileOnly group: "com.liferay.portal", name: "com.liferay.portal.kernel", version: "3.0.0-SNAPSHOT"
+	compileOnly group: "com.liferay.portal", name: "com.liferay.util.taglib", version: "2.0.0"
+	compileOnly group: "javax.portlet", name: "portlet-api", version: "3.0.0"
+	compileOnly group: "javax.servlet", name: "javax.servlet-api", version: "3.0.1"
+	compileOnly group: "jstl", name: "jstl", version: "1.2"
+	compileOnly group: "org.osgi", name: "osgi.cmpn", version: "6.0.0"
+
+
+	//compileOnly group: 'com.liferay', name: 'com.liferay.bnd.util', version: '1.0.1'
+	compileOnly group: "biz.aQute.bnd", name: "biz.aQute.bndlib", version: "3.1.0"
+	// https://mvnrepository.com/artifact/com.liferay/com.liferay.portal.configuration.metatype
+	compileOnly group: 'com.liferay', name: 'com.liferay.portal.configuration.metatype', version: '2.0.12'
+
+
+	// https://mvnrepository.com/artifact/net.sf.saxon/Saxon-HE
+	//compileInclude group: 'net.sf.saxon', name: 'Saxon-HE', version: '9.8.0-14'
+	//compileInclude group: 'org.apache.httpcomponents', name: 'httpclient', version: '4.5.6'
+	// https://mvnrepository.com/artifact/org.apache.httpcomponents/httpcore
+	//compileInclude group: 'org.apache.httpcomponents', name: 'httpcore', version: '4.4.10'
+	// https://mvnrepository.com/artifact/commons-logging/commons-logging
+	//compileOnly group: 'commons-logging', name: 'commons-logging', version: '1.2'
+
+	// https://mvnrepository.com/artifact/mysql/mysql-connector-java
+	compileInclude group: 'mysql', name: 'mysql-connector-java', version: '5.1.47'
+
+}

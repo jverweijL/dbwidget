@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+    <channel>
+        <title>Business Latest</title>
+        <description/>
+        <link>https://www.wired.com/category/business/latest</link>
+        <atom:link href="https://www.wired.com/feed/category/business/latest/rss" rel="self"
+                   type="application/rss+xml"/>
+        <copyright>Â© CondÃ© Nast 2018</copyright>
+        <language>en</language>
+        <lastBuildDate>Mon, 27 Aug 2018 09:09:54 +0000</lastBuildDate>
+        <item>
+            <title>Small-town Ingenuity Is Making Gigabit Broadband a Reality</title>
+            <description>Opinion: Surprise! Some of the fastest, most affordable internet in the country can be found in
+                tiny communities.
+            </description>
+            <link>https://www.wired.com/story/opinion-small-towns-gigabit-broadband-success</link>
+            <guid isPermaLink="false">5b6a130b17c26f0496f4d677</guid>
+            <pubDate>Sun, 26 Aug 2018 12:00:00 +0000</pubDate>
+            <media:content/>
+            <category>Business</category>
+            <category>Opinion</category>
+            <media:keywords>Broadband, FCC, Policy, telecommunications</media:keywords>
+            <dc:creator>Matt Dunne</dc:creator>
+            <dc:modified>Fri, 24 Aug 2018 20:41:44 +0000</dc:modified>
+            <dc:publisher>CondÃ© Nast</dc:publisher>
+            <media:thumbnail
+                    url="https://media.wired.com/photos/5b7f3f82a237be390b3f65f8/master/pass/Cables-h_8.02113015.jpg"
+                    width="2400" height="1800"/>
+        </item>
+        <item>
+            <title>We Need Software to Help Us Slow Down, Not Speed Up</title>
+            <description>Speed often improves life. But the recent techlash has been driven in a fundamental way by the
+                grim side effects of this acceleration.
+            </description>
+            <link>https://www.wired.com/story/software-to-help-us-slow-down-not-speed-up</link>
+            <guid isPermaLink="false">5b6a06245bac5521a29ba731</guid>
+            <pubDate>Sat, 25 Aug 2018 12:00:00 +0000</pubDate>
+            <media:content/>
+            <category>Business</category>
+            <media:keywords>magazine-26.09, software, technology</media:keywords>
+            <dc:creator>Clive Thompson</dc:creator>
+            <dc:modified>Fri, 24 Aug 2018 21:00:55 +0000</dc:modified>
+            <dc:publisher>CondÃ© Nast</dc:publisher>
+            <media:thumbnail
+                    url="https://media.wired.com/photos/5b6a0719a4078f5883f88d1e/master/pass/WI090118_AP_Thompson_LO_ART_01.jpg"
+                    width="2400" height="1920"/>
+        </item>
+        <item>
+            <title>What Is Quantum Computing? The Complete WIRED Guide</title>
+            <description>Everything you ever wanted to know about qubits, superpositioning, and spooky action at a
+                distance.
+            </description>
+            <link>https://www.wired.com/story/wired-guide-to-quantum-computing</link>
+            <guid isPermaLink="false">5b765602bf43583fad135db5</guid>
+            <pubDate>Fri, 24 Aug 2018 23:25:00 +0000</pubDate>
+            <media:content/>
+            <category>Business</category>
+            <media:keywords>Wired Guide, Quantum computing</media:keywords>
+            <dc:creator>Tom Simonite</dc:creator>
+            <dc:modified>Fri, 24 Aug 2018 23:25:49 +0000</dc:modified>
+            <dc:publisher>CondÃ© Nast</dc:publisher>
+            <media:thumbnail
+                    url="https://media.wired.com/photos/5b78fefcbf43583fad135df8/master/pass/Quantum%20Computing.png"
+                    width="1920" height="1080"/>
+        </item>
+        <item>
+            <title>Australiaâ€™s Ban on Huawei Is Just More Bad News for China</title>
+            <description>The move reflects US influence, and Australia's tense, complicated relationship with China.
+            </description>
+            <link>https://www.wired.com/story/australias-ban-on-huawei-is-just-more-bad-news-for-china</link>
+            <guid isPermaLink="false">5b7ef3bd8233984faae38c83</guid>
+            <pubDate>Fri, 24 Aug 2018 21:49:24 +0000</pubDate>
+            <media:content/>
+            <category>Business</category>
+            <media:keywords>australia, telecom, huawei, zte</media:keywords>
+            <dc:creator>Klint Finley</dc:creator>
+            <dc:modified>Sat, 25 Aug 2018 03:02:01 +0000</dc:modified>
+            <dc:publisher>CondÃ© Nast</dc:publisher>
+            <media:thumbnail url="https://media.wired.com/photos/5b7f2a8c2cb40b537a9eb9c2/master/pass/ZTE-453330682.jpg"
+                             width="2400" height="1800"/>
+        </item>
+        <item>
+            <title>NewsGuard Fights Fake News With Humans, Not Algorithms</title>
+            <description>A new Chrome extension rates news sites on trustworthiness, with input from experienced
+                reporters.
+            </description>
+            <link>https://www.wired.com/story/newsguard-extension-fake-news-trust-score</link>
+            <guid isPermaLink="false">5b7d98410bbd3b1d690261ac</guid>
+            <pubDate>Thu, 23 Aug 2018 13:00:00 +0000</pubDate>
+            <media:content/>
+            <category>Business</category>
+            <media:keywords>fake news, facebook, chrome, news, Media</media:keywords>
+            <dc:creator>Issie Lapowsky</dc:creator>
+            <dc:modified>Thu, 23 Aug 2018 14:09:29 +0000</dc:modified>
+            <dc:publisher>CondÃ© Nast</dc:publisher>
+            <media:thumbnail url="https://media.wired.com/photos/5b7df9d94711c736f78633dc/master/pass/newsguard.jpg"
+                             width="2418" height="1865"/>
+        </item>
+        <item>
+            <title>The Solo JavaScript Developer Challenging Google and Facebook</title>
+            <description>Vue, an open-source framework, is winning fans among the creators of web applications.
+            </description>
+            <link>https://www.wired.com/story/the-solo-javascript-developer-challenging-google-facebook</link>
+            <guid isPermaLink="false">5b7b4dae225a8e226a95d386</guid>
+            <pubDate>Thu, 23 Aug 2018 11:00:00 +0000</pubDate>
+            <media:content/>
+            <category>Business</category>
+            <media:keywords>open source, JavaScript, developers</media:keywords>
+            <dc:creator>Klint Finley</dc:creator>
+            <dc:modified>Fri, 24 Aug 2018 19:37:14 +0000</dc:modified>
+            <dc:publisher>CondÃ© Nast</dc:publisher>
+            <media:thumbnail url="https://media.wired.com/photos/5b7ccdf3e9a10423496fabd7/master/pass/vuedotjs-01.jpg"
+                             width="4850" height="3637"/>
+        </item>
+        <item>
+            <title>Puerto Ricoâ€™s Governor: The Island Is Ready to Welcome Tech</title>
+            <description>Opinion: The governor of Puerto Rico writes that the island is a perfect place for tech
+                companies to set up shop.
+            </description>
+            <link>https://www.wired.com/story/opinion-puerto-rico-is-ready-to-welcome-tech</link>
+            <guid isPermaLink="false">5b6a127817c26f0496f4d675</guid>
+            <pubDate>Thu, 23 Aug 2018 10:00:00 +0000</pubDate>
+            <media:content/>
+            <category>Business</category>
+            <category>Opinion</category>
+            <dc:creator>Ricardo RossellÃ³</dc:creator>
+            <dc:modified>Wed, 22 Aug 2018 22:56:56 +0000</dc:modified>
+            <dc:publisher>CondÃ© Nast</dc:publisher>
+            <media:thumbnail
+                    url="https://media.wired.com/photos/5b7b22c833139465fbeb5efd/master/pass/RicardoRossello-OpEd-Biz-981226308.jpg"
+                    width="2400" height="1800"/>
+        </item>
+        <item>
+            <title>Pro-â€˜Dota 2â€™ Players Fend off Elon Musk-Backed AI Botsâ€”for Now</title>
+            <description>Algorithms have conquered backgammon, chess, and Go, but they fall short against the best
+                humans in a complex, multiplayer strategy game.
+            </description>
+            <link>https://www.wired.com/story/pro-gamers-fend-off-elon-musks-ai-bots</link>
+            <guid isPermaLink="false">5b7dc3f333139465fbeb5f63</guid>
+            <pubDate>Thu, 23 Aug 2018 04:02:23 +0000</pubDate>
+            <media:content/>
+            <category>Business</category>
+            <media:keywords>artificial intelligence, esports, elon musk</media:keywords>
+            <dc:creator>Tom Simonite</dc:creator>
+            <dc:modified>Thu, 23 Aug 2018 22:45:55 +0000</dc:modified>
+            <dc:publisher>CondÃ© Nast</dc:publisher>
+            <media:thumbnail
+                    url="https://media.wired.com/photos/5b7dc49081d2b91bf5081d41/master/pass/Doto2-Biz-AP_18233573883427.jpg"
+                    width="2400" height="1800"/>
+        </item>
+        <item>
+            <title>Even Teens Worry That Teens Are Addicted to Their Phones</title>
+            <description>A Pew Research study finds that that 54 percent of US teens ages 13 to 17 worry they spend too
+                much time on their phones, and 52 percent have taken steps to cut back.
+            </description>
+            <link>https://www.wired.com/story/even-teens-worry-that-teens-are-addicted-to-their-phones</link>
+            <guid isPermaLink="false">5b7b25fd732783174620ac6d</guid>
+            <pubDate>Wed, 22 Aug 2018 14:00:00 +0000</pubDate>
+            <media:content/>
+            <category>Business</category>
+            <media:keywords>Teens, smartphones, internet addiction</media:keywords>
+            <dc:creator>Nitasha Tiku</dc:creator>
+            <dc:modified>Wed, 22 Aug 2018 00:23:15 +0000</dc:modified>
+            <dc:publisher>CondÃ© Nast</dc:publisher>
+            <media:thumbnail
+                    url="https://media.wired.com/photos/5b7c75335560bb1fedf11cbd/master/pass/Teens-Biz-883745980.jpg"
+                    width="2400" height="1800"/>
+        </item>
+        <item>
+            <title>At Y Combinator, Startups Manage Molecules Rather Than Code</title>
+            <description>Demo Day at the famed incubator showed strong interest in all things bio, from healthcare to
+                food.
+            </description>
+            <link>https://www.wired.com/story/y-combinator-startups-manage-molecules-rather-than-code</link>
+            <guid isPermaLink="false">5b7b0942e9a10423496faba6</guid>
+            <pubDate>Wed, 22 Aug 2018 11:00:00 +0000</pubDate>
+            <media:content/>
+            <category>Business</category>
+            <media:keywords>Y Combinator, startups, healthcare</media:keywords>
+            <dc:creator>Sandra Upson</dc:creator>
+            <dc:modified>Wed, 22 Aug 2018 18:22:00 +0000</dc:modified>
+            <dc:publisher>CondÃ© Nast</dc:publisher>
+            <media:thumbnail
+                    url="https://media.wired.com/photos/5b7b5d9baf193f6cccd73ca6/master/pass/YCom-Biz-FA-108359606.jpg"
+                    width="2400" height="1200"/>
+        </item>
+        <item>
+            <title>FiftyThree, Maker of Popular Paper and Paste Apps, Gets Acquired</title>
+            <description>An interview with FiftyThree cofounder Georg Petschnigg about why he decided to sell his
+                company to WeTransfer.
+            </description>
+            <link>https://www.wired.com/story/fiftythree-wetransfer-paper-app-acquisition</link>
+            <guid isPermaLink="false">5b7b2ef84711c736f786334e</guid>
+            <pubDate>Tue, 21 Aug 2018 13:59:36 +0000</pubDate>
+            <media:content/>
+            <category>Business</category>
+            <media:keywords>Paper, apps, acquisitions</media:keywords>
+            <dc:creator>Lauren Goode</dc:creator>
+            <dc:modified>Tue, 21 Aug 2018 16:50:52 +0000</dc:modified>
+            <dc:publisher>CondÃ© Nast</dc:publisher>
+            <media:thumbnail url="https://media.wired.com/photos/5b7b5df8225a8e226a95d394/master/pass/paper.jpg"
+                             width="1200" height="900"/>
+        </item>
+        <item>
+            <title>Airbnb Wants to Find a Home in China</title>
+            <description>But success in the notoriously difficult and cloistered market will be hard.</description>
+            <link>https://www.wired.com/story/airbnb-china-market</link>
+            <guid isPermaLink="false">5b7b0dfc4711c736f786334d</guid>
+            <pubDate>Tue, 21 Aug 2018 11:00:00 +0000</pubDate>
+            <media:content/>
+            <category>Business</category>
+            <media:keywords>airbnb, China</media:keywords>
+            <dc:creator>Jessi Hempel</dc:creator>
+            <dc:modified>Tue, 21 Aug 2018 02:53:50 +0000</dc:modified>
+            <dc:publisher>CondÃ© Nast</dc:publisher>
+            <media:thumbnail
+                    url="https://media.wired.com/photos/5b7b2dce33139465fbeb5eff/master/pass/china_airbnb-FINAL.jpg"
+                    width="1800" height="1350"/>
+        </item>
+        <item>
+            <title>The SurfSafe Browser Extension Will Save You From Fake Photos</title>
+            <description>Two UC Berkeley undergrads developed SurfSafe to alert people that their media diet is infected
+                with misinformation, right when it happens.
+            </description>
+            <link>https://www.wired.com/story/surfsafe-browser-extension-save-you-from-fake-photos</link>
+            <guid isPermaLink="false">5b758e262d16c7177a9c9810</guid>
+            <pubDate>Mon, 20 Aug 2018 13:00:00 +0000</pubDate>
+            <media:content/>
+            <category>Business</category>
+            <media:keywords>fake news, extensions</media:keywords>
+            <dc:creator>Issie Lapowsky</dc:creator>
+            <dc:modified>Wed, 22 Aug 2018 19:43:07 +0000</dc:modified>
+            <dc:publisher>CondÃ© Nast</dc:publisher>
+            <media:thumbnail
+                    url="https://media.wired.com/photos/5b77230333139465fbeb5eb8/master/pass/Fake-photo-browser-extension-FINAL.jpg"
+                    width="2400" height="1800"/>
+        </item>
+        <item>
+            <title>Schools Are Mining Students' Social Media Posts for Signs of Trouble</title>
+            <description>But should they?</description>
+            <link>https://www.wired.com/story/algorithms-monitor-student-social-media-posts</link>
+            <guid isPermaLink="false">5b772af1732783174620ac32</guid>
+            <pubDate>Mon, 20 Aug 2018 10:00:00 +0000</pubDate>
+            <media:content/>
+            <category>Business</category>
+            <media:keywords>Education, Social Media</media:keywords>
+            <dc:creator>Tom Simonite</dc:creator>
+            <dc:modified>Mon, 20 Aug 2018 06:46:25 +0000</dc:modified>
+            <dc:publisher>CondÃ© Nast</dc:publisher>
+            <media:thumbnail
+                    url="https://media.wired.com/photos/5b7756585560bb1fedf11c51/master/pass/SchoolCellPhones-957460808.jpg"
+                    width="2400" height="1800"/>
+        </item>
+        <item>
+            <title>The History of 'It's Not a Bug, It's a Feature'</title>
+            <description>It's an acknowledgment, half comic, half tragic, of the ambiguity that has always haunted
+                computer programming.
+            </description>
+            <link>https://www.wired.com/story/its-not-a-bug-its-a-feature</link>
+            <guid isPermaLink="false">5b453d01aba3b00b586674f6</guid>
+            <pubDate>Sun, 19 Aug 2018 11:00:00 +0000</pubDate>
+            <media:content/>
+            <category>Business</category>
+            <media:keywords>magazine-26.08, bugs, programming, code, coding, internet, culture</media:keywords>
+            <dc:creator>Nicholas Carr</dc:creator>
+            <dc:modified>Tue, 07 Aug 2018 00:10:10 +0000</dc:modified>
+            <dc:publisher>CondÃ© Nast</dc:publisher>
+            <media:thumbnail
+                    url="https://media.wired.com/photos/5b454025ff72650b474ab048/master/pass/WI080118_AP_25thFeatureNotBug_01.jpg"
+                    width="1800" height="1800"/>
+        </item>
+        <item>
+            <title>A Straightforward Timeline of the FCC's Twisty DDoS Debacle</title>
+            <description>It's a complicated situation and a complicated subject. Maybe this will simplify things.
+            </description>
+            <link>https://www.wired.com/story/fcc-net-neutrality-investigation</link>
+            <guid isPermaLink="false">5b75dd9d0bbd3b1d690260ad</guid>
+            <pubDate>Sat, 18 Aug 2018 13:00:00 +0000</pubDate>
+            <media:content/>
+            <category>Business</category>
+            <media:keywords>Ajit Pai, Net Neutrality, ddos</media:keywords>
+            <dc:creator>Klint Finley</dc:creator>
+            <dc:modified>Sat, 18 Aug 2018 00:07:28 +0000</dc:modified>
+            <dc:publisher>CondÃ© Nast</dc:publisher>
+            <media:thumbnail
+                    url="https://media.wired.com/photos/5b760a60732783174620abdc/master/pass/Ajit-Pai-h_15104894.jpg"
+                    width="2400" height="1800"/>
+        </item>
+        <item>
+            <title>AI Is the Futureâ€”But Where Are the Women?</title>
+            <description>Just 12 percent of machine learning researchers are womenâ€”a worrying statistic for a field
+                supposedly reshaping society.
+            </description>
+            <link>https://www.wired.com/story/artificial-intelligence-researchers-gender-imbalance</link>
+            <guid isPermaLink="false">5b7461fa5fc74d47846ce4f2</guid>
+            <pubDate>Fri, 17 Aug 2018 11:00:00 +0000</pubDate>
+            <media:content/>
+            <category>Business</category>
+            <media:keywords>Artificial Intelligence, diversity, gender</media:keywords>
+            <dc:creator>Tom Simonite</dc:creator>
+            <dc:modified>Fri, 17 Aug 2018 19:21:42 +0000</dc:modified>
+            <dc:publisher>CondÃ© Nast</dc:publisher>
+            <media:thumbnail
+                    url="https://media.wired.com/photos/5b7609f0f521ce3ac9ba4560/master/pass/The%20Gender%20Imbalance%20in%20AI%20v2.jpg"
+                    width="2401" height="1801"/>
+        </item>
+        <item>
+            <title>Coinbase Acquires Distributed Systems to Double Down on Digital Identity</title>
+            <description>Cryptocurrency exchange Coinbase is banking on decentralized identity to help it find long-term
+                relevance.
+            </description>
+            <link>https://www.wired.com/story/coinbase-distributed-systems-acquisition</link>
+            <guid isPermaLink="false">5b72f0504644980a2c29a2bd</guid>
+            <pubDate>Wed, 15 Aug 2018 17:00:00 +0000</pubDate>
+            <media:content/>
+            <category>Business</category>
+            <media:keywords>blockchain, coinbase, cryptocurrency, identity</media:keywords>
+            <dc:creator>Gregory Barber</dc:creator>
+            <dc:modified>Wed, 15 Aug 2018 17:16:17 +0000</dc:modified>
+            <dc:publisher>CondÃ© Nast</dc:publisher>
+            <media:thumbnail
+                    url="https://media.wired.com/photos/5b737c340be6e81f6aa46287/master/pass/coinbase_wallet-FINAL.jpg"
+                    width="2400" height="1800"/>
+        </item>
+        <item>
+            <title>Health Care Is Broken. Oscar Health Thinks Tech Can Fix It</title>
+            <description>Mario Schlosser, the CEO of Oscar Health, wants technology to cure what ails the health care
+                industry. And now Alphabet, Google's parent company, is betting $375 million on this digital panacea.
+            </description>
+            <link>https://www.wired.com/story/oscar-health-ceo-mario-schlosser-interview</link>
+            <guid isPermaLink="false">5b71c3704644980a2c29a2a6</guid>
+            <pubDate>Tue, 14 Aug 2018 15:00:00 +0000</pubDate>
+            <media:content/>
+            <category>Business</category>
+            <media:keywords>healthcare</media:keywords>
+            <dc:creator>Nicholas Thompson</dc:creator>
+            <dc:modified>Tue, 14 Aug 2018 17:35:00 +0000</dc:modified>
+            <dc:publisher>CondÃ© Nast</dc:publisher>
+            <media:thumbnail
+                    url="https://media.wired.com/photos/5b71c59cf6d47809bff3a641/master/pass/marioschlosser-RTX35Z44.jpg"
+                    width="2400" height="1800"/>
+        </item>
+        <item>
+            <title>Programming Languages May Finally Be Reaching a Status Quo</title>
+            <description>In new rankings from analyst firm RedMonk, Appleâ€™s programming language Swift and Android
+                favorite Kotlin saw their meteoric growth slightly slow down.
+            </description>
+            <link>https://www.wired.com/story/apple-swift-android-kotlin-rankings</link>
+            <guid isPermaLink="false">5b71c4db4177c301e3b9b17a</guid>
+            <pubDate>Mon, 13 Aug 2018 21:13:20 +0000</pubDate>
+            <media:content/>
+            <category>Business</category>
+            <media:keywords>languages, kotlin, developers</media:keywords>
+            <dc:creator>Klint Finley</dc:creator>
+            <dc:modified>Mon, 13 Aug 2018 21:13:19 +0000</dc:modified>
+            <dc:publisher>CondÃ© Nast</dc:publisher>
+            <media:thumbnail
+                    url="https://media.wired.com/photos/5b71f2334177c301e3b9b191/master/pass/programminglanguages-476368292.jpg"
+                    width="2400" height="1800"/>
+        </item>
+    </channel>
+</rss>
