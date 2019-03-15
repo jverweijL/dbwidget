@@ -1,0 +1,11 @@
+Bundle-Name: db-viewer-service
+Bundle-SymbolicName: com.liferay.demo.db.service
+Bundle-Version: 1.0.0
+
+
+Import-Package: \
+    !org.apache.log*,\
+    !com.mchange.v2.c3p0,\
+    !org.hibernate.service.jdbc.connections*,\
+    !org.jboss.resource.adapter*,\
+	*

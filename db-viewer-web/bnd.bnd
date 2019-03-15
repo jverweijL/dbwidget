@@ -1,5 +1,5 @@
-Bundle-Name: dbWidget
-Bundle-SymbolicName: com.liferay.demo.db
+Bundle-Name: db-viewer-web
+Bundle-SymbolicName: com.liferay.demo.db.viewer.web
 Bundle-Version: 1.0.0
 
 -metatype: *

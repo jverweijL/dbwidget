@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+    <channel>
+        <title>Photo Latest</title>
+        <description/>
+        <link>https://www.wired.com/category/photo/latest</link>
+        <atom:link href="https://www.wired.com/feed/category/photo/latest/rss" rel="self" type="application/rss+xml"/>
+        <copyright>© Condé Nast 2018</copyright>
+        <language>en</language>
+        <lastBuildDate>Thu, 23 Aug 2018 10:56:00 +0000</lastBuildDate>
+        <item>
+            <title>A Cross-Country Road Trip, Courtesy of Google Street View</title>
+            <description>Matthew Muspratt traveled from coast to coast without ever filling up his gas tank.
+            </description>
+            <link>https://www.wired.com/story/google-street-view-road-trip</link>
+            <guid isPermaLink="false">5b7c2b83225a8e226a95d39a</guid>
+            <pubDate>Wed, 22 Aug 2018 14:00:00 +0000</pubDate>
+            <media:content/>
+            <category>Photo</category>
+            <media:keywords>Photography, Road Trip, Travel</media:keywords>
+            <dc:creator>Laura Mallonee</dc:creator>
+            <dc:modified>Wed, 22 Aug 2018 13:23:10 +0000</dc:modified>
+            <dc:publisher>Condé Nast</dc:publisher>
+            <media:thumbnail
+                    url="https://media.wired.com/photos/5b7c67dff521ce3ac9ba45e9/master/pass/post10%5Bhttps-_goo.gl_maps_g65Rg5BDBsQ2%5D-(1).jpg"
+                    width="2400" height="1261"/>
+        </item>
+        <item>
+            <title>Behind the Scenes at the World's Most Fascinating Workshops</title>
+            <description>Photographer Katrin Korfmann traveled the world, documenting the artistic production process.
+            </description>
+            <link>https://www.wired.com/story/workshop-composite-photography</link>
+            <guid isPermaLink="false">5b79bc4ce9a10423496faba2</guid>
+            <pubDate>Tue, 21 Aug 2018 14:00:00 +0000</pubDate>
+            <media:content/>
+            <category>Photo</category>
+            <media:keywords>Photography</media:keywords>
+            <dc:creator>Michael Hardy</dc:creator>
+            <dc:modified>Tue, 21 Aug 2018 22:56:57 +0000</dc:modified>
+            <dc:publisher>Condé Nast</dc:publisher>
+            <media:thumbnail
+                    url="https://media.wired.com/photos/5b7c9456e9a10423496fabc6/master/pass/backstages_chouara_fes_2017_katrinkorfmann.jpg"
+                    width="1417" height="981"/>
+        </item>
+        <item>
+            <title>The Mighty Honeybee Is Fighting Poverty and Deforestation in Zanzibar</title>
+            <description>On this Tanzanian archipelago, conservation and economic development are intertwined.
+            </description>
+            <link>https://www.wired.com/story/honeybees-zanzibar-photo-gallery</link>
+            <guid isPermaLink="false">5b76edaaf521ce3ac9ba456a</guid>
+            <pubDate>Sat, 18 Aug 2018 14:00:00 +0000</pubDate>
+            <media:content/>
+            <category>Photo</category>
+            <media:keywords>Photography</media:keywords>
+            <dc:creator>Laura Mallonee</dc:creator>
+            <dc:modified>Mon, 20 Aug 2018 16:58:35 +0000</dc:modified>
+            <dc:publisher>Condé Nast</dc:publisher>
+            <media:thumbnail
+                    url="https://media.wired.com/photos/5b75e5a5f521ce3ac9ba453c/master/pass/%C2%A9JurreRompa_1.jpg"
+                    width="2000" height="1333"/>
+        </item>
+        <item>
+            <title>Space Photos of the Week: Supersized Saturn and Jumbo Jupiter</title>
+            <description>Sometimes the big guys, with their massive storms and fun-for-kids-to-draw rings, get all the
+                attention.
+            </description>
+            <link>https://www.wired.com/story/space-photos-of-the-week-supersized-saturn-and-jumbo-jupiter</link>
+            <guid isPermaLink="false">5b7604266dc9f536620f0110</guid>
+            <pubDate>Sat, 18 Aug 2018 12:00:00 +0000</pubDate>
+            <media:content/>
+            <category>Photo</category>
+            <dc:modified>Fri, 17 Aug 2018 20:38:02 +0000</dc:modified>
+            <dc:publisher>Condé Nast</dc:publisher>
+            <media:thumbnail url="https://media.wired.com/photos/5b7601a3f521ce3ac9ba455e/master/pass/SPoW_081618_1.jpg"
+                             width="2000" height="1033"/>
+        </item>
+        <item>
+            <title>The Techies Turning Kenya Into a Silicon Savannah</title>
+            <description>The country is home to a $1 billion tech scene.</description>
+            <link>https://www.wired.com/story/kenya-silicon-savannah-photo-gallery</link>
+            <guid isPermaLink="false">5b6cd3a64177c301e3b9b101</guid>
+            <pubDate>Sun, 12 Aug 2018 14:00:00 +0000</pubDate>
+            <media:content/>
+            <category>Photo</category>
+            <media:keywords>Photography, Africa, Startups</media:keywords>
+            <dc:creator>Laura Mallonee</dc:creator>
+            <dc:modified>Fri, 10 Aug 2018 21:05:44 +0000</dc:modified>
+            <dc:publisher>Condé Nast</dc:publisher>
+            <media:thumbnail url="https://media.wired.com/photos/5b6cd1a777a9d822a46426a6/master/pass/coke_07.jpg"
+                             width="2000" height="1500"/>
+        </item>
+        <item>
+            <title>The Spanish Ghost Towns Left By the 2008 Financial Crisis</title>
+            <description>An estimated 3.4 million homes are currently unoccupied in Spain thanks to the country's great
+                housing bust.
+            </description>
+            <link>https://www.wired.com/story/spain-ghost-towns-photo-gallery</link>
+            <guid isPermaLink="false">5b6b196f7e5f0b7f259cb7f7</guid>
+            <pubDate>Thu, 09 Aug 2018 16:30:00 +0000</pubDate>
+            <media:content/>
+            <category>Photo</category>
+            <media:keywords>Photography, Finance</media:keywords>
+            <dc:creator>Michael Hardy</dc:creator>
+            <dc:modified>Fri, 10 Aug 2018 06:36:20 +0000</dc:modified>
+            <dc:publisher>Condé Nast</dc:publisher>
+            <media:thumbnail
+                    url="https://media.wired.com/photos/5b6b1bc961743303b6869f36/master/pass/SandCastles_REDONDO_03.jpg"
+                    width="4856" height="3238"/>
+        </item>
+        <item>
+            <title>The Tight-Lipped Drivers Steering Tokyo's Taxis</title>
+            <description>Oleg Tolstoy photographed the men and women who suit up to ferry passengers around Shibuya and
+                Shinjuku.
+            </description>
+            <link>https://www.wired.com/story/tokyo-taxi-drivers-photo-gallery</link>
+            <guid isPermaLink="false">5b69cab9a4078f5883f88d0e</guid>
+            <pubDate>Wed, 08 Aug 2018 14:00:00 +0000</pubDate>
+            <media:content/>
+            <category>Photo</category>
+            <dc:creator>Laura Mallonee</dc:creator>
+            <dc:modified>Tue, 07 Aug 2018 22:29:27 +0000</dc:modified>
+            <dc:publisher>Condé Nast</dc:publisher>
+            <media:thumbnail
+                    url="https://media.wired.com/photos/5b69e3de61743303b6869f00/master/pass/OLEG%20TOLSTOY%20-Whos%20Driving%20Tokyo-3.jpg"
+                    width="2000" height="1333"/>
+        </item>
+        <item>
+            <title>Mars and Saturn Are Ready for Their Close-ups</title>
+            <description>Mars and Saturn make their approaches to Earth, where Hubble has been waiting.</description>
+            <link>https://www.wired.com/story/space-photos-of-the-week-mars-and-saturn-closeups</link>
+            <guid isPermaLink="false">5b64b234fb5fd052de31738e</guid>
+            <pubDate>Sat, 04 Aug 2018 11:00:00 +0000</pubDate>
+            <media:content/>
+            <category>Photo</category>
+            <media:keywords>Space Photos of the Week, Mars, Saturn</media:keywords>
+            <dc:creator>Shannon Stirone</dc:creator>
+            <dc:modified>Fri, 03 Aug 2018 21:33:59 +0000</dc:modified>
+            <dc:publisher>Condé Nast</dc:publisher>
+            <media:thumbnail
+                    url="https://media.wired.com/photos/5b64aafdf6d47809bff3a538/master/pass/SPOW_08032018_2.jpg"
+                    width="1030" height="1067"/>
+        </item>
+        <item>
+            <title>Sweeping Chinese Landscapes Transformed By Rapid Development</title>
+            <description>Photographers Sebastien Tixier and Raphael Bourelly took a 300-mile road trip from Gansu
+                province to Inner Mongolia.
+            </description>
+            <link>https://www.wired.com/story/photo-gallery-china-development</link>
+            <guid isPermaLink="false">5b5b47951a2d590c4d57fc94</guid>
+            <pubDate>Wed, 01 Aug 2018 17:12:18 +0000</pubDate>
+            <media:content/>
+            <category>Photo</category>
+            <media:keywords>Photography</media:keywords>
+            <dc:creator>Laura Mallonee</dc:creator>
+            <dc:modified>Thu, 02 Aug 2018 21:14:08 +0000</dc:modified>
+            <dc:publisher>Condé Nast</dc:publisher>
+            <media:thumbnail
+                    url="https://media.wired.com/photos/5b5b70e1eaaf3b0b4a51f8d2/master/pass/TixierBourelly_01.jpg"
+                    width="2000" height="1600"/>
+        </item>
+        <item>
+            <title>A Polar Bear Frolics on Sea Ice, and 13 Other Gorgeous Drone Photos</title>
+            <description>Florian Ledoux was named this year's Drone Photographer of the Year for his winning wildlife
+                photo captured in Nunavut, Canada.
+            </description>
+            <link>https://www.wired.com/story/drone-photography</link>
+            <guid isPermaLink="false">5b6096421a2d590c4d57fd22</guid>
+            <pubDate>Wed, 01 Aug 2018 14:00:00 +0000</pubDate>
+            <media:content/>
+            <category>Photo</category>
+            <media:keywords>Photography</media:keywords>
+            <dc:creator>Laura Mallonee</dc:creator>
+            <dc:modified>Tue, 31 Jul 2018 21:52:11 +0000</dc:modified>
+            <dc:publisher>Condé Nast</dc:publisher>
+            <media:thumbnail
+                    url="https://media.wired.com/photos/5b60971c38506225c8fd9fe0/master/pass/2017LEDOUX_030_002_013-3.jpg"
+                    width="2000" height="1332"/>
+        </item>
+        <item>
+            <title>Space Photos of the Week: A Stormy Summer on Mars</title>
+            <description>Planet-encircling dust storms are shrouding skies and imperiling a NASA rover.</description>
+            <link>https://www.wired.com/story/space-photos-of-the-week-mars-storm</link>
+            <guid isPermaLink="false">5b5a6db1eaaf3b0b4a51f8b0</guid>
+            <pubDate>Sat, 28 Jul 2018 15:00:00 +0000</pubDate>
+            <media:content/>
+            <category>Photo</category>
+            <media:keywords>Space Photos of the Week, Mars</media:keywords>
+            <dc:creator>Shannon Stirone</dc:creator>
+            <dc:modified>Fri, 27 Jul 2018 17:36:18 +0000</dc:modified>
+            <dc:publisher>Condé Nast</dc:publisher>
+            <media:thumbnail
+                    url="https://media.wired.com/photos/5b5a672f7756071a9b78f21a/master/pass/SPoW_07262018_1.jpg"
+                    width="2400" height="1800"/>
+        </item>
+        <item>
+            <title>Inside the U.S. Military’s Secret Nuclear Defense Plans</title>
+            <description>From hidden fallout shelters to remote missile sites to microwave communication towers, the
+                United States spent the Cold War preparing for doomsday.
+            </description>
+            <link>https://www.wired.com/story/us-doomsday-defense-photos</link>
+            <guid isPermaLink="false">5b5b364f88199e0b65255478</guid>
+            <pubDate>Sat, 28 Jul 2018 14:00:00 +0000</pubDate>
+            <media:content/>
+            <category>Photo</category>
+            <media:keywords>Photography, nuclear, cold war</media:keywords>
+            <dc:creator>Michael Hardy</dc:creator>
+            <dc:modified>Mon, 30 Jul 2018 18:00:41 +0000</dc:modified>
+            <dc:publisher>Condé Nast</dc:publisher>
+            <media:thumbnail
+                    url="https://media.wired.com/photos/5b5b3cf8eaaf3b0b4a51f8b3/master/pass/Jim-LoScalzo_1.jpg"
+                    width="2400" height="1600"/>
+        </item>
+        <item>
+            <title>The Abandoned Soviet Spas Inhabited by Georgian Refugees</title>
+            <description>In its heyday, the spa town of Tskaltubo drew more than 100,000 visitors each year. Today,
+                Georgians displaced by the Abkhazian conflict call it home.
+            </description>
+            <link>https://www.wired.com/story/abandoned-soviet-spas</link>
+            <guid isPermaLink="false">5b57d5557756071a9b78f196</guid>
+            <pubDate>Thu, 26 Jul 2018 14:00:00 +0000</pubDate>
+            <media:content/>
+            <category>Photo</category>
+            <media:keywords>Photography</media:keywords>
+            <dc:creator>Laura Mallonee</dc:creator>
+            <dc:modified>Wed, 25 Jul 2018 21:23:38 +0000</dc:modified>
+            <dc:publisher>Condé Nast</dc:publisher>
+            <media:thumbnail
+                    url="https://media.wired.com/photos/5b58a8937d78e13930f31d6f/master/pass/Ryan-Koopmans-Tskaltubo-Georgia-WIRED-selects-002.jpg"
+                    width="2000" height="1334"/>
+        </item>
+        <item>
+            <title>Comic-Con 2018: This Year's Best Cosplay</title>
+            <description>Comic-Con 2018's best costumes included Wonder Woman, 'Game of Thrones', and more.
+            </description>
+            <link>https://www.wired.com/story/cosplay-comic-con-2018</link>
+            <guid isPermaLink="false">5b54df6359269e342890a463</guid>
+            <pubDate>Mon, 23 Jul 2018 15:01:46 +0000</pubDate>
+            <media:content/>
+            <category>Photo</category>
+            <media:keywords>Photography</media:keywords>
+            <dc:creator>Michael Hardy</dc:creator>
+            <dc:modified>Mon, 23 Jul 2018 22:26:29 +0000</dc:modified>
+            <dc:publisher>Condé Nast</dc:publisher>
+            <media:thumbnail
+                    url="https://media.wired.com/photos/5b54c042d1f4802ba295c9ec/master/pass/Angie%20Smith_1.jpg"
+                    width="2500" height="1667"/>
+        </item>
+        <item>
+            <title>Space Photos of the Week: Sweeping the Clouds Away on Titan</title>
+            <description>With infrared eyes, astronomers are more than scratching the surface of Saturn’s hazy moon.
+            </description>
+            <link>https://www.wired.com/story/space-photos-of-the-week-sweeping-the-clouds-away-on-titan</link>
+            <guid isPermaLink="false">5b52056c59269e342890a442</guid>
+            <pubDate>Sat, 21 Jul 2018 12:00:00 +0000</pubDate>
+            <media:content/>
+            <category>Science</category>
+            <category>Photo</category>
+            <media:keywords>Space Photos of the Week, space, astronomy, saturn</media:keywords>
+            <dc:creator>Shannon Stirone</dc:creator>
+            <dc:modified>Fri, 20 Jul 2018 23:18:29 +0000</dc:modified>
+            <dc:publisher>Condé Nast</dc:publisher>
+            <media:thumbnail
+                    url="https://media.wired.com/photos/5b5203a0e6d8d808477c3e77/master/pass/SPoW_07202018_6.jpg"
+                    width="2400" height="1624"/>
+        </item>
+        <item>
+            <title>Aerial Images Capture Swathes of Amazon Rainforest Destroyed by Gold Mining</title>
+            <description>Ernesto Benavides hangs out of helicopters to document the devastation inside Peru's Tambopata
+                National Reserve.
+            </description>
+            <link>https://www.wired.com/story/amazon-rainforest-gold-mining-gallery</link>
+            <guid isPermaLink="false">5b4e7a340ea5ef37fa24f7e8</guid>
+            <pubDate>Thu, 19 Jul 2018 14:00:00 +0000</pubDate>
+            <media:content/>
+            <category>Photo</category>
+            <media:keywords>Photography</media:keywords>
+            <dc:creator>Laura Mallonee</dc:creator>
+            <dc:modified>Wed, 18 Jul 2018 15:30:50 +0000</dc:modified>
+            <dc:publisher>Condé Nast</dc:publisher>
+            <media:thumbnail
+                    url="https://media.wired.com/photos/5b4e863212ed070b75a9e101/master/pass/ErnestoBenavides_1.JPG"
+                    width="2000" height="1331"/>
+        </item>
+        <item>
+            <title>Photograph or Painting? These Landscapes Are Both</title>
+            <description>French artist Guillaume Hebert creates hybrid images that blur the differences between media.
+            </description>
+            <link>https://www.wired.com/story/guillaume-hebert-photography-painting</link>
+            <guid isPermaLink="false">5b48e1f16fb17329ea418a77</guid>
+            <pubDate>Wed, 18 Jul 2018 12:00:00 +0000</pubDate>
+            <media:content/>
+            <category>Photo</category>
+            <media:keywords>Photography</media:keywords>
+            <dc:creator>Michael Hardy</dc:creator>
+            <dc:modified>Wed, 18 Jul 2018 00:40:21 +0000</dc:modified>
+            <dc:publisher>Condé Nast</dc:publisher>
+            <media:thumbnail
+                    url="https://media.wired.com/photos/5b4d210531fa181b2b2144b3/master/pass/%20Guillaume%20Hebert_1.jpg"
+                    width="2000" height="1637"/>
+        </item>
+        <item>
+            <title>Don't Call Them Winged Rats—These Pigeons Are Exquisite</title>
+            <description>Leila Jeffreys photographed majestically colorful members of the Columbidae family in
+                Australia.
+            </description>
+            <link>https://www.wired.com/story/exotic-pigeons</link>
+            <guid isPermaLink="false">5b48039852d0ec7826416c18</guid>
+            <pubDate>Sun, 15 Jul 2018 14:00:00 +0000</pubDate>
+            <media:content/>
+            <category>Photo</category>
+            <media:keywords>Photography, birds</media:keywords>
+            <dc:creator>Laura Mallonee</dc:creator>
+            <dc:modified>Wed, 18 Jul 2018 17:10:25 +0000</dc:modified>
+            <dc:publisher>Condé Nast</dc:publisher>
+            <media:thumbnail
+                    url="https://media.wired.com/photos/5b48ffc532ccf1343a8aa99f/master/pass/Wompoo%20Pigeon.jpg"
+                    width="1300" height="1674"/>
+        </item>
+        <item>
+            <title>Space Photos of the Week: Mars Has Spiders in the Springtime</title>
+            <description>Beautiful evidence of our red neighbor’s watery past and current annual changes.</description>
+            <link>https://www.wired.com/story/space-photos-of-the-week-mars-spiders</link>
+            <guid isPermaLink="false">5b490cb46866850b1bfbb0e4</guid>
+            <pubDate>Sat, 14 Jul 2018 12:00:00 +0000</pubDate>
+            <media:content/>
+            <category>Photo</category>
+            <media:keywords>Space Photos of the Week, Mars, NASA</media:keywords>
+            <dc:creator>Shannon Stirone</dc:creator>
+            <dc:modified>Fri, 13 Jul 2018 21:39:36 +0000</dc:modified>
+            <dc:publisher>Condé Nast</dc:publisher>
+            <media:thumbnail
+                    url="https://media.wired.com/photos/5b4908636866850b1bfbb0e1/master/pass/SPoW_07_13_2018_6.jpg"
+                    width="2400" height="1500"/>
+        </item>
+        <item>
+            <title>Ancient and Modern Meet in These Photographs of the Holy Land</title>
+            <description>Photographer Rogers Grasas spent seven years traveling the Middle East to capture these
+                stunning images.
+            </description>
+            <link>https://www.wired.com/story/ancient-lands-modern-world</link>
+            <guid isPermaLink="false">5b44e143a2bff9692c40a779</guid>
+            <pubDate>Thu, 12 Jul 2018 19:54:15 +0000</pubDate>
+            <media:content/>
+            <category>Photo</category>
+            <media:keywords>Photography</media:keywords>
+            <dc:creator>Michael Hardy</dc:creator>
+            <dc:modified>Thu, 12 Jul 2018 19:54:14 +0000</dc:modified>
+            <dc:publisher>Condé Nast</dc:publisher>
+            <media:thumbnail url="https://media.wired.com/photos/5b452784952cc40b917f3e5c/master/pass/RogerGrasas_1.jpg"
+                             width="1800" height="1800"/>
+        </item>
+    </channel>
+</rss>
