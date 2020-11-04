@@ -9,7 +9,7 @@ taglib uri="http://liferay.com/tld/ui" prefix="liferay-ui" %>
 
 <%@ page import="com.liferay.portal.kernel.util.Constants" %>
 <%@ page import="com.liferay.demo.db.config.dbConfiguration" %>
-<%@ page import="com.liferay.portal.kernel.util.StringPool" %>
+<%@ page import="com.liferay.petra.string.StringPool" %>
 <%@ page import="com.liferay.portal.kernel.util.Validator" %>
 <%@ page import="java.sql.*" %>
 

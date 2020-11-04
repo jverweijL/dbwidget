@@ -1,3 +1,5 @@
+**this version is build for DXP 7.3**
+
 Sometimes you simply want to show information from a database.
 Or in some cases you don't want to use service builder and all the fancy db caching
 roles and rights stuff, etc.
